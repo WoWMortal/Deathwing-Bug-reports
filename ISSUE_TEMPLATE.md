@@ -1,12 +1,3 @@
----
-name: Bug report
-about: Create a report to help us improve the Deathwing realm
-title: ''
-labels: ''
-assignees: Prince-SH
-
----
-
 **Description:**
 Describe the bug
 
