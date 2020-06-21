@@ -1,3 +1,13 @@
+---
+name: Bug report
+about: Create a report to help us improve the Deathwing realm
+title: ''
+labels: ''
+assignees: Prince-SH
+
+---
+
+
 # Deathwing-Bug-Reports
 Repository for issues / bug reports for Deathwin X10 realm of https://wowmortal.com
 
